@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Title</title>
+	<title>Space stations</title>
 </head>
 <body>
  
 
-  <h1>Bitbucket has the following space stations:<h1>
-  <p>Earth's Moon</p>
-  <p>Headquarters</p>
+  <h1>Bitbucket has the following space stations:<h1> 
+
+ 	<p>Earth's Moon
+ 	<p>Headquarters</p>
+ 
+	<p>Mars</p>
+	<p>Recreation Department</p> 
 </body>
 </html>
