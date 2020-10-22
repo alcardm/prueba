@@ -1,2 +1,2 @@
-# prueba
-Prueba con un repositorio
+# Prueba
+Prueba con un repositorio.  Ejercicios con *git*.
